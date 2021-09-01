@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/21.07/alligator-21.07.tar.xz",
-                    "sha256": "53252a6153c8157ab7b8146e70e0a2f11be142481c6306a92073eba578109dfd"
+                    "url": "https://download.kde.org/stable/plasma-mobile/21.08/alligator-21.07.tar.xz",
+                    "sha256": "1858d5a3863c7c92eaa4302bd0f808f2a03fd359cfdf46f5e895971d1a771cb6"
                 }
             ]
         }
