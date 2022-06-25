@@ -20,7 +20,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/plasma-mobile/22.04/alligator-22.04.tar.xz",
-                    "sha256": "8ce3584356a8bec079deba9126d47f25401239572e34d42da6fe644cbc025ab8"
+                    "sha256": "8ce3584356a8bec079deba9126d47f25401239572e34d42da6fe644cbc025ab8",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 261771,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/alligator-$version.tar.xz"
+                    }
                 }
             ]
         }
