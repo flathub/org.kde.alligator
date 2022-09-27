@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.06/alligator-22.06.tar.xz",
-                    "sha256": "ae76960d29e247c7150114a097b860b483dddebcc230a9624076c6583f5792c0",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.09/alligator-22.09.tar.xz",
+                    "sha256": "8b6adaa54aa8e5fe3cebda821fa9b407872940c7afb7fe45f4b41ad782d03e4f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261771,
