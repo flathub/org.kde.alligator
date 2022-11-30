@@ -14,23 +14,6 @@
     ],
     "modules": [
         {
-            "name": "alligator",
-            "buildsystem": "cmake-ninja",
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.11/alligator-22.11.tar.xz",
-                    "sha256": "54330ffaa8680519c43d6b9cbb48ae839198fd606f71e36b3878fa5dab200f0a",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 261771,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/alligator-$version.tar.xz"
-                    }
-                }
-            ]
-        },
-        {
             "name": "kirigami-addons",
             "config-opts": [
                 "-DBUILD_TESTING=OFF",
@@ -47,6 +30,23 @@
                         "project-id": 242933,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-$version.tar.xz"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "alligator",
+            "buildsystem": "cmake-ninja",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.11/alligator-22.11.tar.xz",
+                    "sha256": "54330ffaa8680519c43d6b9cbb48ae839198fd606f71e36b3878fa5dab200f0a",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 261771,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/alligator-$version.tar.xz"
                     }
                 }
             ]
