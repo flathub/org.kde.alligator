@@ -14,13 +14,34 @@
     ],
     "modules": [
         {
+            "name": "kirigami-addons",
+            "config-opts": [
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
+            "buildsystem": "cmake-ninja",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-0.6.tar.xz",
+                    "sha256": "2fc18d25ad684d5fec260b872c3320068290c59abab50e26a61811ca8bd5882f",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 242933,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-$version.tar.xz"
+                    }
+                }
+            ]
+        },
+        {
             "name": "alligator",
             "buildsystem": "cmake-ninja",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.09/alligator-22.09.tar.xz",
-                    "sha256": "8b6adaa54aa8e5fe3cebda821fa9b407872940c7afb7fe45f4b41ad782d03e4f",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.11/alligator-22.11.tar.xz",
+                    "sha256": "54330ffaa8680519c43d6b9cbb48ae839198fd606f71e36b3878fa5dab200f0a",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 261771,
