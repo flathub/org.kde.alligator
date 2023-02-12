@@ -2,7 +2,7 @@
     "id": "org.kde.alligator",
     "rename-icon": "alligator",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-21.08",
+    "runtime-version": "5.15-22.08",
     "sdk": "org.kde.Sdk",
     "command": "alligator",
     "finish-args": [
@@ -44,7 +44,7 @@
                     "sha256": "6caf6777621c5d3a013e211c19a2b2d488be8591f8796030dc49e2bf1b926c03",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 261771,
+                        "project-id": 326642,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/plasma-mobile/$version/alligator-$version.tar.xz"
                     }
