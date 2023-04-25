@@ -40,13 +40,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/23.01.0/alligator-23.01.0.tar.xz",
-                    "sha256": "6caf6777621c5d3a013e211c19a2b2d488be8591f8796030dc49e2bf1b926c03",
+                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/alligator-23.04.0.tar.xz",
+                    "sha256": "fa20c3a52aef455127703164172b633786323b37cdfa9f4828edb3f5d719b5fd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 326642,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/plasma-mobile/$version/alligator-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/alligator-$version.tar.xz"
                     }
                 }
             ]
