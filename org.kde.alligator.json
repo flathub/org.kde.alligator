@@ -2,7 +2,7 @@
     "id": "org.kde.alligator",
     "rename-icon": "alligator",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "alligator",
     "finish-args": [
@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-0.11.0.tar.xz",
-                    "sha256": "05296c5afbe6804308bf9c0d2751f3b748b40d00fa784946d1dcdf3af4bffbad",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.0.1.tar.xz",
+                    "sha256": "9d013847efb0048c6a2799ee0ed281b14eee15314ac20d7fba853197e45f29b7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/alligator-23.08.4.tar.xz",
-                    "sha256": "01feedd91cb74c2b4a0916b34a1ea48ec09f1244de34abf26d3cb03c37d1173d",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/alligator-24.02.0.tar.xz",
+                    "sha256": "ea707eb94082076558b44c6b63a7593a45e6dee3e7bf401a2ae6b231997c74d8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 326642,
