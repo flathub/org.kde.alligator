@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.4.0.tar.xz",
-                    "sha256": "56e3ceb52055b5603320ea08b27d3673d32a391a8d58646d998227d8b51f0a93",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.5.0.tar.xz",
+                    "sha256": "f9dfd191022b633ea3348f84730d7158a159dfe49668dba0a9e9bd678ac44e54",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/alligator-24.08.1.tar.xz",
-                    "sha256": "fb27804334046204dae535380eddec2904b00fbb718ed58a27278cccee024825",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/alligator-24.08.2.tar.xz",
+                    "sha256": "539c3627aa1a7575ca811d67215fc8eea0e975ca688645770c91cb5dad573128",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 326642,
