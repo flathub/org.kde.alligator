@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/alligator-24.12.0.tar.xz",
-                    "sha256": "b2a703220f0c41612e2b9a7bba1fa22157859b63c9ca55bc619965c341c75e24",
+                    "url": "https://download.kde.org/stable/release-service/24.12.1/src/alligator-24.12.1.tar.xz",
+                    "sha256": "2a3e0c3d0819019388aebddbcc54cbc053a4354f7f833621be9c8b269d8cf295",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 326642,
