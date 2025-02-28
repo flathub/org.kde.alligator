@@ -37,6 +37,9 @@
         {
             "name": "alligator",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DBUILD_TESTING=OFF"
+            ],
             "sources": [
                 {
                     "type": "archive",
